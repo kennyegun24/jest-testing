@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testcases.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennyegun24/jest-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennyegun24/jest-testing/issues"
+  },
+  "homepage": "https://github.com/kennyegun24/jest-testing#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
